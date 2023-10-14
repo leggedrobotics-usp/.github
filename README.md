@@ -1,7 +1,12 @@
 # Legged Robotics Group `.github` repo
 
 This repository complies with the GitHub framework to standardize the organization's landing page, code of conduct, license, issues, and pull requests (PR) for every other repository under this organization. 
-In case the repository does not have a `.github` folder, this one is applied as the default setting.
+In case the repository does not have a `.github` folder, this one is applied as the default setting. Please keep in mind that there are default settings and your repository might need a specific definition according
+to your workflow and tools. Best practice guidelines and language-specific checking are to be defined, probably somewhere else (_not this repo, keep it clean!_).
+
+Suggested future settings here: 
+- Folder `./workflows` (CI/CT) for ROS, and PlatformIO (or any other framework/toolchain you work with);
+- [CODEOWNERS file](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners).
 
 # License
 
