@@ -5,8 +5,10 @@ In case the repository does not have a `.github` folder, this one is applied as 
 
 # License
 
-Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA):\
-A Creative Commons license that bans commercial use and requires you to release any modified works under this license.
+GNU GPLv3
+
+Permissions of this strong copyleft license are conditioned on making available the complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. 
+Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
 
 # Funding
 
